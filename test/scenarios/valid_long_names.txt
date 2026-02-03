@@ -1,0 +1,4 @@
+5
+Balloon ThisIsAVeryLongNameForABalloonToTestIfTheSimulatorCanHandleItWithoutAnyIssues 10 20 30
+JetPlane AnotherExceedinglyLongNameSpecificallyDesignedToStressTheOutputFormattingAndParsingCapabilities 40 50 60
+Helicopter H1_With_Underscores_And_Numbers_1234567890 70 80 90
